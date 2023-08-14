@@ -1,0 +1,11 @@
+*.vscode
+env
+venv
+__pycache__
+openfas_pb2_grpc.py
+openfas_pb2.py
+*.bag
+*.mp4
+*.png
+resources/
+*.ipynb

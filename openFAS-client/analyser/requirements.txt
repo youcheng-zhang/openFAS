@@ -1,0 +1,15 @@
+celery==4.3.0
+dlib==19.22.0
+Flask==2.0.1
+kombu==4.6.11
+matplotlib==3.3.4
+numpy==1.19.5
+opencv_python==4.5.2.54
+pandas==1.2.2
+Pillow==8.4.0
+pyk4a==1.2.4
+pymongo==3.11.4
+pyrealsense2==2.47.0.3313
+python-dotenv==0.19.2
+scikit_learn==1.0.1
+scipy==1.6.0

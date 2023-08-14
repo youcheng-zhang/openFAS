@@ -1,0 +1,15 @@
+{
+  "SESSION_NEW": "/session/new",
+  "SESSIONS": "/sessions",
+  "PATIENT": "/patients/:id",
+  "PATIENTS": "/patients",
+  "ULSESSION_NEW": "/ULsession/new",
+  "ULSESSIONS": "/ULsessions",
+  "ULPATIENT": "/ULpatients/:id",
+  "ULPATIENTS": "/ULpatients",
+  "TEAM": "/teams/:id",
+  "TEAMS": "/teams",
+  "SETTINGS": "/settings",
+  "SETTINGS_ACCOUNT": "/settings/account",
+  "SETTINGS_SESSION": "/settings/session"
+}
